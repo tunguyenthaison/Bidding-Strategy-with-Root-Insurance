@@ -1,2 +1,4 @@
 # Bidding-Strategy-with-Root-Insurance
-Erdos Instutitute Bootcamp on Data Science
+Erdos Institute Bootcamp on Data Science
+
+# Root Insurance's Project - Optimize marketing spend in the vertical search channel
